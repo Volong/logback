@@ -36,6 +36,7 @@ public class DuplicateMessageFilter extends TurboFilter {
     public static final int DEFAULT_CACHE_SIZE = 100;
     /**
      * The default number of allows repetitions.
+     * 默认允许重复的次数
      */
     public static final int DEFAULT_ALLOWED_REPETITIONS = 5;
 
