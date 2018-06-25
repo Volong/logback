@@ -31,6 +31,7 @@ public class DuplicateMessageFilter extends TurboFilter {
 
     /**
      * The default cache size.
+     * 默认缓存大小
      */
     public static final int DEFAULT_CACHE_SIZE = 100;
     /**
